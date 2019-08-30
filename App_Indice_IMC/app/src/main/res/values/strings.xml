@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_Indice_IMC</string>
+    <string name="txt_titulo">Calculo do Peso Ideal para sua Altura</string>
+    <string name="txt_peso">Entre com seu peso</string>
+    <string name="txt_altura">Entre com sua altura</string>
+    <string name="button">calcular</string>
+    <string name="txt_resultado">Resultado</string>
+
+</resources>
